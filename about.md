@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi! My name is Michael Graves.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I want to offer you technology driven solutions for your small business and home residence.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I bring most of my youth's experience building computers networks, software, and a passion for electronics. I believe
+in bringing these experiences to my clients and delivering quality, time-sensitive solutions.
+
+When I'm not working, you'll find me practicing Japanese, traveling, and playing guitar.
