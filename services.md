@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Services offered
+title: Services
 permalink: /services/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+<ul>Web Design</ul>
+<ul>Security Checkup and Encryption</ul>
+<ul>Pen testing</ul>
+<ul>Electronics Mock up</ul>
+<ul>Internet of Things Design</ul>
+<ul>Japanese-English Translation</ul>
+<ul>General Programming</ul>
+<ul>Testing and Automation Integration</ul>
+<ul>At-home network and computer servicing</ul>
